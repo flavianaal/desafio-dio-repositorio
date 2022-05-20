@@ -1,0 +1,6 @@
+Para clonar um repositorio git clone "url"
+git status para vericicar se a atualizações
+git add . para aicionar o arquivo
+git commit -m "" para inserir o arquivos
+git push origin main para enviar tds 
+os commites pra a nuvem 
