@@ -1,4 +1,4 @@
-Aula-Projeto Git/GitHub
+Aula-Projeto/Desafio Git/GitHub
 
 Link para baixar o Git/GitHub: 
 Link para logar no site:https://github.com/
