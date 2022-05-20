@@ -1,2 +1,4 @@
-# Repositori do desafio do Git/Github da Dio
+# desafio-dio-repositorio
 Primeiro desafio do projeto-DIO
+##links uteis 
+[Sintaxe basica]
